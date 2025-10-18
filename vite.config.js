@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: "/project-name/",
+    base: "/responsive-homepage/",
 });

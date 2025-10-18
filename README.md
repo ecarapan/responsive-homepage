@@ -1,10 +1,10 @@
-# Project Name
+# Homepage
 
-Description.
+Homepage that changes to fit any screen size and device.
 
 ## Live Demo
 
-[https://ecarapan.github.io/project-name/](https://ecarapan.github.io/project-name/)
+[https://ecarapan.github.io/responsive-homepage/](https://ecarapan.github.io/responsive-homepage/)
 
 ## Technologies
 
