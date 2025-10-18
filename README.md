@@ -10,5 +10,4 @@ Description.
 
 - HTML
 - CSS
-- JavaScript
 - Vite
