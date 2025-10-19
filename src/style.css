@@ -145,11 +145,17 @@ footer > div {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 }
 
+footer > div div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 footer h4 {
   font-size: 2rem;
 }
 
-footer img {
+footer > img {
   width: 750px;
   height: 400px;
   object-fit: cover;
